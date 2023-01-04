@@ -29,8 +29,8 @@ twitter_username: _tillis
 github_username:  migueltillisjr
 
 # Build settings
-#theme: minima
-theme: minimal-mistakes
+theme: minima
+#theme: minimal-mistakes
 plugins:
   - jekyll-feed
 
