@@ -29,7 +29,7 @@ twitter_username: _tillis
 github_username:  migueltillisjr
 
 # Build settings
-theme: minimal
+theme: minima
 #theme: minimal-mistakes
 plugins:
   - jekyll-feed
